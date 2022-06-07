@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactTestBuild/static/css/main.6b5d1000.css",
+    "main.js": "/ReactTestBuild/static/js/main.a08c5ae4.js",
+    "static/js/787.a2bf511c.chunk.js": "/ReactTestBuild/static/js/787.a2bf511c.chunk.js",
+    "static/media/book.png": "/ReactTestBuild/static/media/book.2c5bc7cdbf88262bae1b.png",
+    "index.html": "/ReactTestBuild/index.html",
+    "main.6b5d1000.css.map": "/ReactTestBuild/static/css/main.6b5d1000.css.map",
+    "main.a08c5ae4.js.map": "/ReactTestBuild/static/js/main.a08c5ae4.js.map",
+    "787.a2bf511c.chunk.js.map": "/ReactTestBuild/static/js/787.a2bf511c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5d1000.css",
+    "static/js/main.a08c5ae4.js"
+  ]
+}
